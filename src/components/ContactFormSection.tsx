@@ -55,37 +55,38 @@ const ContactFormSection = () => {
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-embracon-red mr-3" viewBox="0 0 20 20" fill="currentColor">
                       <path fillRule="evenodd" d="M14.243 5.757a6 6 0 10-.986 9.284 1 1 0 111.087 1.678A8 8 0 1118 10a3 3 0 01-4.8 2.401A4 4 0 1114 10a1 1 0 102 0c0-1.537-.586-3.07-1.757-4.243zM12 10a2 2 0 10-4 0 2 2 0 004 0z" clipRule="evenodd" />
                     </svg>
-                    <span>clarissa@embracon.com.br</span>
+                    <span>clarissaconsult@gmail.com</span>
+                    <span>clarissa.monteiro@parceiroembracon.com.br</span>
                   </div>
                   <div className="flex items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-embracon-red mr-3" viewBox="0 0 20 20" fill="currentColor">
                       <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
                     </svg>
-                    <span>(11) 99999-9999</span>
+                    <span>(83) 99375-3449</span>
                   </div>
                   <div className="flex items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-embracon-red mr-3" viewBox="0 0 20 20" fill="currentColor">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM4.332 8.027a6.012 6.012 0 011.912-2.706C6.512 5.73 6.974 6 7.5 6A1.5 1.5 0 019 7.5V8a2 2 0 004 0 2 2 0 011.523-1.943A5.977 5.977 0 0116 10c0 .34-.028.675-.083 1H15a2 2 0 00-2 2v2.197A5.973 5.973 0 0110 16v-2a2 2 0 00-2-2 2 2 0 01-2-2 2 2 0 00-1.668-1.973z" clipRule="evenodd" />
                     </svg>
-                    <span>@clarissaconsultora</span>
+                    <span>@consultoraclarissa</span>
                   </div>
                 </div>
                 
                 <div className="mt-8">
                   <div className="flex space-x-4">
-                    <a href="https://instagram.com/clarissaconsultora" target="_blank" rel="noopener noreferrer" className="text-embracon-red hover:text-embracon-darkred">
+                    <a href="https://instagram.com/consultoraclarissa" target="_blank" rel="noopener noreferrer" className="text-embracon-red hover:text-embracon-darkred">
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                         <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
                         <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
                         <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
                       </svg>
                     </a>
-                    <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-embracon-red hover:text-embracon-darkred">
+                    <a href="https://www.facebook.com/profile.php?id=61568234655810" target="_blank" rel="noopener noreferrer" className="text-embracon-red hover:text-embracon-darkred">
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                         <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
                       </svg>
                     </a>
-                    <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="text-embracon-red hover:text-embracon-darkred">
+                    <a href="https://wa.me/5583993753449?text=Ol%C3%A1%2C+vim+pelo+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es." target="_blank" rel="noopener noreferrer" className="text-embracon-red hover:text-embracon-darkred">
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                         <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path>
                       </svg>

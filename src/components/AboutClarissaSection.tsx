@@ -34,7 +34,7 @@ const AboutClarissaSection = () => {
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-embracon-red text-white py-2 px-4 rounded-lg shadow-lg">
-                @clarissaconsultora
+                @consultoraclarissa
               </div>
             </div>
           </div>

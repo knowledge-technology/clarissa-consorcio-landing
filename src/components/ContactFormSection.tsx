@@ -35,7 +35,7 @@ const ContactFormSection = () => {
         },
       };
 
-      await api.post("/api/leeds", payload);
+      await api.post("/api/leads", payload);
 
       toast({
         title: "Contato enviado com sucesso!",
